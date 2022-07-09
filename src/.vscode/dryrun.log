@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/peter/Udacity_workspace/SFND_Lidar_Obstacle_Detection/src'
+make: Leaving directory '/home/peter/Udacity_workspace/SFND_Lidar_Obstacle_Detection/src'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
